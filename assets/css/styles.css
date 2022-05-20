@@ -16,7 +16,7 @@ body{
     margin: 0;
     display: flex;
     justify-content: center;
-    algin items: center;
+    align-items: center;
 }
 
 #container.searchbox {
@@ -34,4 +34,7 @@ body{
     flex-basis: 1e-9px;
     display: flex;
     flex-direction: row;
+	display: flex;
+    justify-content: center;
+    align-items: center;
 }
