@@ -6,10 +6,12 @@ body{
 	background: var(--background);
 	background-repeat: no-repeat;
 	background-size: cover;
+	display: flex;
+    justify-content: center;
+    align-items: center;
 }
 #div1{
-    margin-left: 450px;
-    margin-top: 80px;
+    margin-top: 90px;
     width: 460px;
     background-color: #ffffff;
     padding-left: 50px;
